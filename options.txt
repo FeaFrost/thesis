@@ -1,0 +1,10 @@
+1-DNA_length=	1000
+2-mutation_probability=	0.005
+3-confid_interval=	95
+4-interval_steps=	2000
+5-number_of_niches=	200
+6-jump_probability_start=	0.000821
+7-jump_probability_increasing_by=	0.000001
+8-jump_increasing_increasing_to=	0.000821
+
+#Use TAB to separate name from option
